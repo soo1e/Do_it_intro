@@ -1,4 +1,4 @@
-// 1,000 이하의 소수를 나열(버전 2)
+package chap02;// 1,000 이하의 소수를 나열(버전 2)
 
 class PrimeNumber2 {
     public static void main(String[] args) {

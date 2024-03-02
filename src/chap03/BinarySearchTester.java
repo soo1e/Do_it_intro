@@ -1,4 +1,4 @@
-// Arrays.binarySearch로 이진 검색
+package chap03;// Arrays.binarySearch로 이진 검색
 
 import java.util.Arrays;
 import java.util.Scanner;

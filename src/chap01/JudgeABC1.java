@@ -1,4 +1,4 @@
-// 입력한 정숫값을 판단(1)
+package chap01;// 입력한 정숫값을 판단(1)
 
 import java.util.Scanner;
 

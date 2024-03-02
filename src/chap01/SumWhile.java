@@ -1,4 +1,4 @@
-// while 문으로 1, 2, …, n의 합을 구함
+package chap01;// while 문으로 1, 2, …, n의 합을 구함
 
 import java.util.Scanner;
 

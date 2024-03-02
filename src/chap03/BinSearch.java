@@ -1,4 +1,4 @@
-// 이진 검색
+package chap03;// 이진 검색
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-// 문자열의 배열(자바의 키워드)에서 검색
+package chap03;// 문자열의 배열(자바의 키워드)에서 검색
 
 import java.util.Arrays;
 import java.util.Scanner;

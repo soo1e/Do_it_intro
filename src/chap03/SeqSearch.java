@@ -1,4 +1,4 @@
-// 선형검색
+package chap03;// 선형검색
 
 import java.util.Scanner;
 

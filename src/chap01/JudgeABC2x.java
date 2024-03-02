@@ -1,4 +1,4 @@
-// 입력한 정숫값을 판단(2)(2의 본모습)
+package chap01;// 입력한 정숫값을 판단(2)(2의 본모습)
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-// 배열 요소에 값을 읽어 들여 역순으로 정렬
+package chap02;// 배열 요소에 값을 읽어 들여 역순으로 정렬
 
 import java.util.Arrays;
 import java.util.Scanner;

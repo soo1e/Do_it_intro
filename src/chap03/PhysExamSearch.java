@@ -1,8 +1,8 @@
-// 신체검사 데이터 배열에서 이진 검색
+package chap03;// 신체검사 데이터 배열에서 이진 검색
 
 import java.util.Arrays;
-import java.util.Scanner;
 import java.util.Comparator;
+import java.util.Scanner;
 
 class PhysExamSearch {
     //--- 신체검사 데이터 ---//

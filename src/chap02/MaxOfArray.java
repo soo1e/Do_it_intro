@@ -1,4 +1,4 @@
-// 배열 요소의 최댓값 출력(값을 입력받음)
+package chap02;// 배열 요소의 최댓값 출력(값을 입력받음)
 
 import java.util.Scanner;
 

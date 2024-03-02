@@ -1,4 +1,4 @@
-// 2자리의 양수(10 ~ 99)를 입력
+package chap01;// 2자리의 양수(10 ~ 99)를 입력
 import java.util.Scanner;
 
 class TwoDigits {

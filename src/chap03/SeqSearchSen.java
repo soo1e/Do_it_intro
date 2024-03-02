@@ -1,4 +1,4 @@
-// 선형 검색(보초법)
+package chap03;// 선형 검색(보초법)
 
 import java.util.Scanner;
 

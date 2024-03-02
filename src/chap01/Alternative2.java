@@ -1,4 +1,4 @@
-// +와 -를 번갈아 출력(2)
+package chap01;// +와 -를 번갈아 출력(2)
 
 import java.util.Scanner;
 

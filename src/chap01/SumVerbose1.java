@@ -1,4 +1,4 @@
-// 1, 2, …, n의 합과 그 값을 구하는 과정을 출력(1)
+package chap01;// 1, 2, …, n의 합과 그 값을 구하는 과정을 출력(1)
 import java.util.Scanner;
 
 class SumVerbose1 {

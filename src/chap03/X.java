@@ -1,4 +1,4 @@
-// 클래스 X의 내부에서 COMPARATOR를 정의하는 방법(예)
+package chap03;// 클래스 X의 내부에서 COMPARATOR를 정의하는 방법(예)
 
 import java.util.Comparator;
 

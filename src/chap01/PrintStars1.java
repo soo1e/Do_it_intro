@@ -1,4 +1,4 @@
-// *를 n개 출력하되 w개마다 줄 바꿈(1)
+package chap01;// *를 n개 출력하되 w개마다 줄 바꿈(1)
 
 import java.util.Scanner;
 

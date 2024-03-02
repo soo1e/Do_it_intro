@@ -1,4 +1,4 @@
-// 입력한 정숫값의 부호(양수/음수/0)를 판단
+package chap01;// 입력한 정숫값의 부호(양수/음수/0)를 판단
 
 import java.util.Scanner;
 

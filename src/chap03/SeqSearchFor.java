@@ -1,4 +1,4 @@
-// 선형검색(for문)
+package chap03;// 선형검색(for문)
 
 import java.util.Scanner;
 

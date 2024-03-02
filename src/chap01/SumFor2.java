@@ -1,4 +1,4 @@
-// 양수만 입력하여 1, 2, …, n의 합을 구함(do문에서 양수만을 ​​n값으로 읽음)
+package chap01;// 양수만 입력하여 1, 2, …, n의 합을 구함(do문에서 양수만을 ​​n값으로 읽음)
 
 import java.util.Scanner;
 
